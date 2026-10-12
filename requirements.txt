@@ -1,0 +1,6 @@
+pandas==2.3.3
+matplotlib==3.10.9
+pypdf==6.4.0
+markitdown[pdf]==0.5.2
+google-cloud-bigquery==3.46.1
+pyspark==3.5.3
